@@ -69,23 +69,6 @@ td {
     padding-right: 15px;
     color: white;
 }
-/*
-.time-box {
-    text-align: center;
-    color: white;
-}
-
-.time-box span {
-    font-size: 1.5rem;
-    font-weight: bold;
-    display: block;
-}
-
-.time-box small {
-    font-size: 0.7rem;
-    letter-spacing: 1px;
-}*/
-
 .button2 {
     background-color: blueviolet;
     padding: 15px 40px;
@@ -198,3 +181,4 @@ h6 {
    margin-right: 185px;
    margin-top: -20px;
 }
+
